@@ -4,10 +4,11 @@
 
 **Project 1: Sentiment Analysis for Product Reviews using Machine Learning and NLP**
 
-Project Overview:
+**Project Overview:**
+
 This project focused on building an intelligent sentiment analysis system to automatically classify customer product reviews as Positive, Negative, or Neutral. The aim was to understand customer opinions at scale and help businesses improve products and services based on feedback.
 
-Work Description:
+**Work Description:**
 
 Collected and worked with a large-scale Amazon Consumer Reviews dataset containing thousands of real-world product reviews.
 
@@ -23,27 +24,27 @@ Split the dataset into training and testing sets to ensure proper validation of 
 
 Evaluated the model using accuracy, precision, recall, and F1-score, achieving high classification performance (~91% accuracy).
 
-Advanced Implementation:
+**Advanced Implementation:**
 
 Integrated an NLP-based generative AI model (Gemini API) to provide context-aware sentiment reasoning in addition to traditional ML predictions.
 
 Implemented real-time user input handling for both single and multiple reviews, generating structured JSON outputs containing sentiment, confidence, and reasoning.
 
-Outcome & Impact:
+**Outcome & Impact:**
 
 Developed a hybrid ML + NLP system capable of both statistical classification and semantic reasoning.
 
 The solution can be deployed for e-commerce review analysis, customer feedback monitoring, and business intelligence applications.
 
-Technologies Used:
+**Technologies Used:**
 Python, Pandas, NLTK, Scikit-learn, TF-IDF, Multinomial Naïve Bayes, Generative AI (Gemini API)
 
 **Project 2: Credit Card Fraud Detection Using Machine Learning**
 
-Project Overview:
+**Project Overview:**
 This project aimed to detect fraudulent credit card transactions in real time using supervised machine learning techniques, helping reduce financial losses and enhance transaction security.
 
-Work Description:
+**Work Description:**
 
 Worked with a highly imbalanced credit card transaction dataset containing anonymized transaction features (V1–V28), transaction amount, and class labels.
 
@@ -59,13 +60,13 @@ Evaluated model performance using confusion matrix, ROC-AUC score, precision, re
 
 Built a probability-based decision system to flag transactions as Fraudulent or Normal.
 
-Outcome & Impact:
+**Outcome & Impact:**
 
 Achieved highly reliable fraud detection with strong recall for minority (fraud) cases.
 
 The system is suitable for banking systems, payment gateways, and financial risk monitoring platforms.
 
-Technologies Used:
+**Technologies Used:**
 Python, Pandas, Scikit-learn, XGBoost, SMOTE, NumPy, Matplotlib
 
 **Project 3: Customer Churn Prediction for Telecom Industry**
@@ -73,7 +74,7 @@ Python, Pandas, Scikit-learn, XGBoost, SMOTE, NumPy, Matplotlib
 Project Overview:
 The objective of this project was to predict whether a telecom customer is likely to discontinue services, enabling companies to take preventive retention actions.
 
-Work Description:
+**Work Description:**
 
 Analyzed a telecom customer dataset containing demographic, service usage, billing, and contract information.
 
@@ -87,21 +88,21 @@ Evaluated the model using accuracy and class-wise performance metrics.
 
 Conducted feature importance analysis to identify key factors influencing customer churn (contract type, monthly charges, internet service).
 
-Outcome & Impact:
+**Outcome & Impact:**
 
 Enabled early identification of customers at high risk of churn.
 
 Provided actionable insights for customer retention strategies and business decision-making.
 
-Technologies Used:
+**Technologies Used:**
 Python, Pandas, Scikit-learn, Gradient Boosting, Data Visualization
 
 **Project 4: Retail Sales Forecasting Using Time-Series Analysis**
 
-Project Overview:
+**Project Overview:**
 This project focused on forecasting future retail sales using historical data to help businesses optimize inventory management and financial planning.
 
-Work Description:
+**Work Description:**
 
 Worked with historical retail sales datasets containing date-wise and store-wise sales information.
 
@@ -113,28 +114,28 @@ Evaluated forecasting accuracy using Mean Absolute Error (MAE) and Root Mean Squ
 
 Visualized future sales predictions and seasonal components.
 
-Outcome & Impact:
+**Outcome & Impact:**
 
 Delivered accurate sales forecasts for future time periods.
 
 Useful for inventory optimization, demand planning, and strategic retail decision-making.
 
-Technologies Used:
+**Technologies Used:**
 Python, Pandas, Prophet, Matplotlib, Time-Series Analysis
 
 **Independent Project: Iron Dome – AI-Based Real-Time Missile Interception Decision System**
 
-Project Nature:
+**Project Nature:**
 Self-Initiated / Independent Research & Development Project
 (Designed, implemented, and documented independently; code hosted on GitHub)
 
-Project Overview:
+**Project Overview:**
 The Iron Dome Project is an advanced AI-driven defense simulation system developed to model and predict real-time missile threats and make intelligent interception decisions. The project integrates physics-based trajectory modeling, machine learning, and decision-making logic to distinguish between threat and non-threat missiles and recommend optimal interception strategies.
 
-Problem Statement:
+**Problem Statement:**
 Traditional missile defense systems either rely heavily on physics-based rules or purely data-driven AI models. This project addresses the limitation by combining both approaches to achieve faster, safer, and more reliable interception decisions, especially under real-time constraints.
 
-Work Description:
+**Work Description:**
 
 Designed a synthetic missile trajectory generation system using kinematic and projectile motion equations (position, velocity, angle, time).
 
@@ -162,7 +163,7 @@ Real-time radar input
 
 Multi-missile swarm scenarios
 
-Key Innovations:
+**Key Innovations:**
 
 Hybrid approach combining Physics + AI, instead of relying on a single method
 
@@ -172,7 +173,7 @@ Safety-aware interception logic to avoid unnecessary launches
 
 Fully reproducible and documented system hosted on GitHub
 
-Outcome & Impact:
+**Outcome & Impact:**
 
 Demonstrated how AI can support defense decision-making systems under time-critical scenarios.
 
@@ -180,8 +181,8 @@ The project serves as a strong foundation for defense simulations, edge-AI syste
 
 Successfully showcased as a research-oriented and innovation-driven personal project, suitable for academic, hackathon, and publication purposes.
 
-Technologies Used:
+**Technologies Used:**
 Python, Machine Learning (FNN), Numerical Simulation, Physics-Based Modeling, Data Visualization, GitHub Version Control
 
-Project Repository:
+**Project Repository:**
 Source code, documentation, and simulation results are maintained on GitHub as an original independent project.
