@@ -1,6 +1,7 @@
 # INTERSHIP-PROJECT
 
 **Projects Undertaken During Internship**
+
 **Project 1: Sentiment Analysis for Product Reviews using Machine Learning and NLP**
 
 Project Overview:
